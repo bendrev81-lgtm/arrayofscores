@@ -11,5 +11,5 @@ print("average:",average)
 
 maximum = max(scores)
 minimum = min(scores)
-print("maximum:", max)
-print("minimum:",min)
+print("maximum:", maximum)
+print("minimum:",minimum)
